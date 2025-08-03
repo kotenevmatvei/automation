@@ -2,10 +2,7 @@
 
 # This script syncs the local vault (e.g. on my phone with the one on github)
 
-# --- CONFIGURATION ---
-# !!! IMPORTANT: Change this to the path of your vault !!!
 VAULT_PATH="/data/data/com.termux/files/home/storage/shared/Documents/obsidian"
-# ---------------------
 
 echo " Obsidian Vault Sync Started "
 echo "============================="
